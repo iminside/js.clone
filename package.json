@@ -1,0 +1,17 @@
+{
+  "name": "js.clone",
+  "version": "0.0.1",
+  "description": "Deep clone any object with circular references",
+  "main": "./dst/Clone.js",
+  "scripts": {
+    "build": "gulp build"
+  },
+  "author": "Denis Churbanov",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-babel": "^5.2.1"
+  },
+  "dependencies": {
+  }
+}
